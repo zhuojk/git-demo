@@ -6,5 +6,5 @@ hello Git,hello atguigu!
 hello Git,hello atguigu!
 hello Git,hello atguigu!
 hello Git,hello atguigu!
-hello Git,hello atguigu!
-hello Git,hello atguigu!
+hello Git,hello atguigu! 
+hello Git,hello atguigu! hot-fix test
